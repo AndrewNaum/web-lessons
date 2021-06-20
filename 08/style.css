@@ -1,0 +1,26 @@
+/* внешние границы таблицы серого цвета толщиной 1px */
+table {
+  background-color: rgb(231, 231, 231);
+  border-collapse: collapse;
+  width: 100%;
+}
+/* границы ячеек первого ряда таблицы */
+th {
+  font-family: cursive, "Сomic Sans MS";
+  padding: 10px;
+}
+/* границы ячеек тела таблицы */
+td {
+  font-family: cursive, "Сomic Sans MS";
+}
+
+caption {
+  color: rgb(255, 136, 0);
+  font-size: 30px;
+  font-family: cursive, "Сomic Sans MS";
+  background-color: rgb(231, 231, 231);
+}
+
+.tabl {
+  border: px solid rgb(255, 136, 0);
+}
