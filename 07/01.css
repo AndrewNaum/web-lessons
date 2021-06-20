@@ -1,0 +1,27 @@
+div {
+  background-color: rgb(32, 49, 88);
+  display: flex;
+  justify-content: space-around;
+}
+li {
+  list-style-type: none;
+  background-color: rgb(68, 84, 117);
+  padding: 10px;
+  color: rgb(255, 255, 255);
+  border: none;
+  display: inline;
+  margin-left: 20px;
+  margin-right: 40px;
+}
+.Text1 {
+  color: rgb(196, 196, 196);
+}
+.Text2 {
+  color: white;
+  font-weight: bold;
+  font-style: italic;
+  font-size: xx-large;
+  position: absolute;
+  left: 88%;
+  top: 0.5%;
+}
